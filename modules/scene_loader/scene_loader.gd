@@ -1,7 +1,6 @@
 # code by MyKoala ͼ•ᴥ•ͽ #
 @tool
 extends Node
-class_name SceneLoader
 
 ## Simple asynchronous [code]PackedScene[/code] loader.
 
