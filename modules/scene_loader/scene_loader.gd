@@ -1,4 +1,4 @@
-# Code copyright ©2024 MyKoala mykoaladev@gmail.com ͼ•ᴥ•ͽ #
+# code by MyKoala ͼ•ᴥ•ͽ #
 @tool
 extends Node
 class_name SceneLoader
