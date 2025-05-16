@@ -22,7 +22,7 @@ func show_menu(duration: float = 0.15) -> Tween:
 	modulate = _inactive_modulate
 	
 	# TODO(Caeden): Abstract the animation into an AnimationPlayer or function you can override
-	var tween: Tween = .create_tween()
+	var tween: Tween = create_tween()
 	tween.tween_callback(func() -> void: self.visible = true)
 	tween.tween_property(self, "position", _active_position, duration)
 	tween.tween_property(self, "scale", _active_scale, duration)
