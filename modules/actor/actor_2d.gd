@@ -1,4 +1,4 @@
-# Code copyright ©2024 valedict valedictdev@gmail.com ͼ•ᴥ•ͽ #
+# code by MyKoala ͼ•ᴥ•ͽ #
 @tool
 extends RigidBody2D
 class_name Actor2D
